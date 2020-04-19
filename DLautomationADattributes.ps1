@@ -91,14 +91,6 @@ if($testlogpath -eq $false)
   New-Item -Path (Get-Location).path -Name Logs -Type directory
 }
 
-$Reportpath  = (Get-Location).path + "\Report" 
-$testlogpath = Test-Path -Path $Reportpath 
-if($testlogpath -eq $false)
-{
-  Start-ProgressBar -Title "Creating Report folder" -Timer 10
-  New-Item -Path (Get-Location).path -Name Report -Type directory
-}
-
 $Temppath  = (Get-Location).path + "\Temp" 
 $testlogpath = Test-Path -Path $Temppath
 if($testlogpath -eq $false)
@@ -225,14 +217,9 @@ Write-Log -Message "Processed ..........$dl1" -path $log
 
 Remove-Item -Path $Csvde 
 ########################Recycle reports & logs##############################
-$path1 = (Get-Location).path + "\report\"
 $path2 = (Get-Location).path + "\Logs\"
 	
 $limit = (Get-Date).AddDays(-60) #for report recycling
-Get-ChildItem -Path $path1 |
-Where-Object {$_.CreationTime -lt $limit} |
-Remove-Item -recurse -Force
-	
 Get-ChildItem -Path $path2 |
 Where-Object {$_.CreationTime -lt $limit} |
 Remove-Item -recurse -Force

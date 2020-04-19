@@ -131,7 +131,7 @@ catch
 }
 ##############start Generating CSV Report#############################
 Write-Log -Message "Extracting data from..........AD" -path $log
-try {CSVDE -f $Csvde  -r  $csvdefilter -l "mail,sAMAccountName,employeeType,extensionattribute7,l"}
+try {CSVDE -f $Csvde  -r  $csvdefilter -l "mail,sAMAccountName,employeeType,extensionattribute3,l"}
 catch 
 {
   Write-Log -Message $exception -path $log -Severity error
@@ -151,7 +151,7 @@ Write-Log -Message "Processing ..........$dl1" -path $log
 $collusers = @()
 Write-Log -Message "Processing.............. CSV" -path $log
 $data | ForEach-Object{
-  if((($_.EmployeeType -eq "Employee") -or ($_.EmployeeType -eq "Non-Employee")) -and (($_.extensionattribute7.trim() -eq $div) -or ($_.l.trim() -eq $loc))) #condition for creating dymanic DL
+  if((($_.EmployeeType -eq "Employee") -or ($_.EmployeeType -eq "Non-Employee")) -and (($_.extensionattribute3.trim() -eq $div) -or ($_.l.trim() -eq $loc))) #condition for creating dymanic DL
   {$collusers += $_.sAMAccountName}
 }
 Write-Log -Message "Processed.............. CSV" -path $log

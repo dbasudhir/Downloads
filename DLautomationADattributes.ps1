@@ -213,7 +213,7 @@ else
 
 Write-Log -Message "Processed ..........$dl1" -path $log
 
-#################################Completed ITSSSupportALL################################
+#################################Completed Distribution group code###########
 
 Remove-Item -Path $Csvde 
 ########################Recycle reports & logs##############################

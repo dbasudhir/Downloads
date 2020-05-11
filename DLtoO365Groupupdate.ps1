@@ -4,18 +4,18 @@
     Created with: 	ISE
     Created on:   	4/30/2020 1:46 PM
     Created by:   	Vikas Sukhija
-    Organization: 	
+    Organization: 	https://techwizard.cloud/2020/05/11/updated-members-of-office-365-group-based-on-ad-group-or-distribution-list/
     Filename:     	Dlto365Groupupdate.ps1
     ===========================================================================
     .DESCRIPTION
-    This will run daily and export the members from dl security group and update o365 groups
+    This will run daily and export the members from dl security group and update o365 group
 #>
 param (
   [string]$Adgroup =  $(Read-Host "Enter AD Group as Source"),
   [string]$o365group = $(Read-Host "Enter the o365 group as Destination"),
   [string]$Removeanswer = $(Read-Host "If removal of members is required ?, type Yes or No"),
   [string]$user1 = $(Read-Host "Enter the Admin User id to conenct to Exchange Online"),
-  [string]$password1 = $(Read-Host "Enter the passwrod" -AsSecureString),
+  $password1 = $(Read-Host "Enter the passwrod" -AsSecureString),
   [string]$smtpserver = $(Read-Host "Enter SMTP Server"),
   [string]$from = $(Read-Host "Enter From Address"),
   [string]$erroremail = $(Read-Host "Enter Address for Report and Errors"),

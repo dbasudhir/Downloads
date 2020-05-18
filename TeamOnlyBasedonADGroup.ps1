@@ -4,7 +4,7 @@
     Created with: 	ISE
     Created on:   	5/18/2020 1:46 PM
     Created by:   	Vikas Sukhija
-    Organization: 	
+    Organization: 	https://techwizard.cloud/  https://syscloudpro.com/
     Filename:     	TeamOnlyBasedonADGroup.ps1
     ===========================================================================
     .DESCRIPTION

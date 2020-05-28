@@ -121,9 +121,6 @@ $Credential = New-Object System.Management.Automation.PSCredential -ArgumentList
 ################connect to modules###################
 try
 {
-  Import-Module -Name activedirectory
-  Connect-AzureAD -Credential $Credential
-  Write-Log -Message "AD Module Loaded" -path $log 
   Connect-MSGraph -PSCredential $Credential
   Write-Log -Message "Intune Module Loaded" -path $log
 }

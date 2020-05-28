@@ -234,6 +234,7 @@ if(($olddeivesremovecount-gt 0) -and ($olddeivesremovecount -lt $countofchanges)
   }
 
   $collection2 | Export-Csv $Report2 -NoTypeInformation
+  Send-MailMessage -SmtpServer $smtpserver -From $from -To $email1 -bcc $erroremail -Subject "Reports - IntuneDuplicateDeviceCleanup" -Body "Reports - IntuneDuplicateDeviceCleanup" -Attachments $report1,$report2
 }
 
 elseif($olddeivesremovecount -gt $countofchanges)
@@ -245,7 +246,7 @@ elseif($olddeivesremovecount -gt $countofchanges)
 }
 
 Write-Log -Message "Finish processing........ Duplicate entries" -path $log
-Send-MailMessage -SmtpServer $smtpserver -From $from -To $email1 -bcc $erroremail -Subject "Reports - IntuneDuplicateDeviceCleanup" -Body "Reports - IntuneDuplicateDeviceCleanup" -Attachments $report1,$report2
+
 ##############################################################################
 $path1 = $logpath
 $path2 = $Reportpath

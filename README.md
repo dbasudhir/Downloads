@@ -1,7 +1,7 @@
 # Downloads https://techwizard.cloud/downloads/
 Technet Gallery Migration
 
-Active Directory Health Check
+[Active Directory Health Check] : https://techwizard.cloud/adhealthcheck/
 Send HTML Email and attachment Powershell
 Ping Machines and report in Excel
 PowerShell – HostName to IP along with Ping in Excel

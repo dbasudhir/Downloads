@@ -49,4 +49,8 @@ Technet Gallery Migration
 <li><a href="https://techwizard.cloud/2019/10/25/intune-export-mam-devices-report/" target="_blank" rel="noopener">Intune &ndash; Export MAM Devices Report</a></li>
 <li><a href="https://techwizard.cloud/2019/09/24/intune-marking-devices-as-corporate/" target="_blank" rel="noopener">Intune Marking devices as Corporate</a></li>
 <li><a href="https://techwizard.cloud/2019/08/11/dynamic-to-static-distribution-group/" target="_blank" rel="noopener">Dynamic to Static Distribution Group</a></li>
+<li><a href="https://techwizard.cloud/2019/07/28/monitor-and-alert-for-new-office-365-services/" target="_blank" rel="noopener">Monitor and Alert for New Office 365 services</a></li>
+<li><a href="https://techwizard.cloud/2019/07/14/group-member-count-daily-report/" target="_blank" rel="noopener">Group Member Count Daily Report</a></li>
+<li><a href="https://techwizard.cloud/2019/06/26/bulk-addition-of-external-users-to-sharepoint-online-site/" target="_blank" rel="noopener">Bulk Addition of External Users to Sharepoint online Site</a></li>
+<li><a href="https://techwizard.cloud/2019/05/28/add-to-exchange-online-license-group-based-on-user-status/" target="_blank" rel="noopener">ADD to Exchange online License Group based on User Status</a></li>
 </ul>

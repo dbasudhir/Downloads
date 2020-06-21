@@ -3,7 +3,7 @@ Technet Gallery Migration
 
 #####################Script in downloads Repo####################################
 
-Active Directory Health Check
+Active Directory Health Check (AD Health Check)
 Send HTML Email and attachment Powershell
 Ping Machines and report in Excel
 PowerShell – HostName to IP along with Ping in Excel

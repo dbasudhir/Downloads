@@ -54,6 +54,17 @@ Monitor and Alert for New Office 365 services
 Group Member Count Daily Report
 Bulk Addition of External Users to Sharepoint online Site
 ADD to Exchange online License Group based on User Status
+All in One Office 365 Powershell Connect
+Bulk Addition of Secondary Email address from CSV
+Automate move the New mailboxes to Cloud
+Report on Addition, Modification, Termination of Exchange users
+Monitoring Unified Messaging Worker Process Port Number
+Exchange Online Unified Messaging Extensions Report
+Intune Cleanup Not Evaluated Devices
+Set Default Quota for SharePoint Online Sites including office 365
+Bulk Contact Creation and Forwarding Exchange Hybrid
+Uploading and Downloading files from Secure FTP
+Monitoring Secure FTP file and Download it via Power-shell
 
 ######################Hyperlinks for Documentation for each script##################
 <ul>
@@ -108,4 +119,15 @@ ADD to Exchange online License Group based on User Status
 <li><a href="https://techwizard.cloud/2019/07/14/group-member-count-daily-report/" target="_blank" rel="noopener">Group Member Count Daily Report</a></li>
 <li><a href="https://techwizard.cloud/2019/06/26/bulk-addition-of-external-users-to-sharepoint-online-site/" target="_blank" rel="noopener">Bulk Addition of External Users to Sharepoint online Site</a></li>
 <li><a href="https://techwizard.cloud/2019/05/28/add-to-exchange-online-license-group-based-on-user-status/" target="_blank" rel="noopener">ADD to Exchange online License Group based on User Status</a></li>
+<li><a href="https://techwizard.cloud/2018/10/25/all-in-one-office-365-powershell-connect-includes-exchange-online-mfa/" target="_blank" rel="noopener">All in One Office 365 Powershell Connect</a></li>
+<li><a href="https://techwizard.cloud/bulk-addition-of-secondary-email-address-from-csv/" target="_blank" rel="noopener">Bulk Addition of Secondary Email address from CSV</a></li>
+<li><a href="https://techwizard.cloud/2019/10/01/automate-move-the-new-mailboxes-to-the-cloud/" target="_blank" rel="noopener">Automate move the New mailboxes to Cloud</a></li>
+<li><a href="https://techwizard.cloud/2018/02/18/report-on-addition-modification-termination-of-exchange-users/" target="_blank" rel="noopener">Report on Addition, Modification, Termination of Exchange users</a></li>
+<li><a href="https://techwizard.cloud/2016/06/12/monitoring-unified-messaging-worker-process-port-number/" target="_blank" rel="noopener">Monitoring Unified Messaging Worker Process Port Number</a></li>
+<li><a href="https://techwizard.cloud/2018/07/28/exchange-online-unified-messaging-extensions-report/" target="_blank" rel="noopener">Exchange Online Unified Messaging Extensions Report</a></li>
+<li><a href="https://techwizard.cloud/2020/06/13/intune-cleanup-not-evaluated-devices/" target="_blank" rel="noopener">Intune Cleanup Not Evaluated Devices</a></li>
+<li><a href="https://techwizard.cloud/2018/04/23/set-default-quota-for-sharepoint-online-sites-including-office-365-group-sites/" target="_blank" rel="noopener">Set Default Quota for SharePoint Online Sites including office 365</a></li>
+<li><a href="https://techwizard.cloud/2020/01/10/bulk-contact-creation-and-forwarding-exchange-hybrid/" target="_blank" rel="noopener">Bulk Contact Creation and Forwarding Exchange Hybrid</a></li>
+<li><a href="https://techwizard.cloud/2015/07/28/uploading-and-downloading-files-from-secure-ftp/" target="_blank" rel="noopener">Uploading and Downloading files from Secure FTP</a></li>
+<li><a href="https://techwizard.cloud/2014/11/21/monitoring-secure-ftp-file-uploads/" target="_blank" rel="noopener">Monitoring Secure FTP file and Download it via Power-shell</a></li>
 </ul>

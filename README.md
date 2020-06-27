@@ -65,4 +65,9 @@ Technet Gallery Migration
 <li><a href="https://techwizard.cloud/2020/01/10/bulk-contact-creation-and-forwarding-exchange-hybrid/" target="_blank" rel="noopener">Bulk Contact Creation and Forwarding Exchange Hybrid</a></li>
 <li><a href="https://techwizard.cloud/2015/07/28/uploading-and-downloading-files-from-secure-ftp/" target="_blank" rel="noopener">Uploading and Downloading files from Secure FTP</a></li>
 <li><a href="https://techwizard.cloud/2014/11/21/monitoring-secure-ftp-file-uploads/" target="_blank" rel="noopener">Monitoring Secure FTP file and Download it via Power-shell</a></li>
+<li><a href="https://techwizard.cloud/2017/01/08/office-365-groups-write-back-without-azure-ad-premium/" target="_blank" rel="noopener">Office 365 groups Write back without Azure AD Premium</a></li>
+<li><a href="https://techwizard.cloud/csv-parser-for-event-logs/" target="_blank" rel="noopener">CSV Parser for Event logs</a></li>
+<li><a href="https://techwizard.cloud/2019/01/31/email-addresses-update-based-on-distribution-list/" target="_blank" rel="noopener">Email Addresses Update based on Distribution List</a></li>
+<li><a href="https://techwizard.cloud/2019/01/31/email-addresses-update-based-on-distribution-list/" target="_blank" rel="noopener">Update Active Directory User attributes from CSV</a></li>
+<li><a href="https://techwizard.cloud/2019/12/10/intune-mdm-enrollment-welcome-email/" target="_blank" rel="noopener">Intune &ndash; MDM Enrollment Welcome Email</a></li>
 </ul>

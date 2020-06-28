@@ -70,4 +70,5 @@ Technet Gallery Migration
 <li><a href="https://techwizard.cloud/2019/01/31/email-addresses-update-based-on-distribution-list/" target="_blank" rel="noopener">Email Addresses Update based on Distribution List</a></li>
 <li><a href="https://techwizard.cloud/2019/01/31/email-addresses-update-based-on-distribution-list/" target="_blank" rel="noopener">Update Active Directory User attributes from CSV</a></li>
 <li><a href="https://techwizard.cloud/2019/12/10/intune-mdm-enrollment-welcome-email/" target="_blank" rel="noopener">Intune &ndash; MDM Enrollment Welcome Email</a></li>
+<li><a href="https://techwizard.cloud/2014/11/15/remove-messages-based-on-message-class-outlook-powershell/" target="_blank" rel="noopener">Remove Messages Based on Message Class &ndash; Outlook Powershell</a></li>
 </ul>

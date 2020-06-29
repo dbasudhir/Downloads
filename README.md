@@ -71,4 +71,10 @@ Technet Gallery Migration
 <li><a href="https://techwizard.cloud/2019/01/31/email-addresses-update-based-on-distribution-list/" target="_blank" rel="noopener">Update Active Directory User attributes from CSV</a></li>
 <li><a href="https://techwizard.cloud/2019/12/10/intune-mdm-enrollment-welcome-email/" target="_blank" rel="noopener">Intune &ndash; MDM Enrollment Welcome Email</a></li>
 <li><a href="https://techwizard.cloud/2014/11/15/remove-messages-based-on-message-class-outlook-powershell/" target="_blank" rel="noopener">Remove Messages Based on Message Class &ndash; Outlook Powershell</a></li>
+<li><a href="https://techwizard.cloud/2019/04/23/add-all-skype-for-business-online-users-to-ad-group/" target="_blank" rel="noopener">Add all Skype for Business Online Users to AD group</a></li>
+<li><a href="https://techwizard.cloud/2019/01/12/powerapps-and-microsoft-flow-report/" target="_blank" rel="noopener">PowerApps and Microsoft Flow Report</a></li>
+<li><a href="https://techwizard.cloud/2018/11/11/server-install-check-list/" target="_blank" rel="noopener">Server Install Check List</a></li>
+<li><a href="https://techwizard.cloud/2018/09/24/list-all-onedrive-sites-html-report/" target="_blank" rel="noopener">List all OneDrive Sites &ndash; HTML report</a></li>
+<li><a href="https://techwizard.cloud/2018/11/05/office-365-ip-address-range-monitor/" target="_blank" rel="noopener">Office 365 IP address Range Monitor</a></li>
+<li><a href="https://techwizard.cloud/2018/08/12/assign-office-365-admin-roles-in-bulk-via-text-file-input/" target="_blank" rel="noopener">Assign Office 365 Admin Roles in Bulk via Text File Input</a></li>
 </ul>

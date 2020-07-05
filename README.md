@@ -77,4 +77,11 @@ Technet Gallery Migration
 <li><a href="https://techwizard.cloud/2018/09/24/list-all-onedrive-sites-html-report/" target="_blank" rel="noopener">List all OneDrive Sites &ndash; HTML report</a></li>
 <li><a href="https://techwizard.cloud/2018/11/05/office-365-ip-address-range-monitor/" target="_blank" rel="noopener">Office 365 IP address Range Monitor</a></li>
 <li><a href="https://techwizard.cloud/2018/08/12/assign-office-365-admin-roles-in-bulk-via-text-file-input/" target="_blank" rel="noopener">Assign Office 365 Admin Roles in Bulk via Text File Input</a></li>
+<li><a href="https://techwizard.cloud/2019/01/05/ad-memberof-extraction-from-list-of-users/" target="_blank" rel="noopener">AD MemberOf Extraction from list of Users</a></li>
+<li><a href="https://techwizard.cloud/2018/07/06/convert-any-csv-to-formatted-excel-file/" target="_blank" rel="noopener">Convert any CSV to Formatted Excel file</a></li>
+<li><a href="https://techwizard.cloud/2018/10/15/skype-policy-compliance-script/" target="_blank" rel="noopener">SKYPE Policy Compliance Script</a></li>
+<li><a href="https://techwizard.cloud/2018/09/03/upn-flip-for-office-365-users/" target="_blank" rel="noopener">UPN Flip for Office 365 Users</a></li>
+<li><a href="https://techwizard.cloud/2018/06/19/exchange-online-rooms-report/" target="_blank" rel="noopener">Exchange Online Rooms Report</a></li>
+<li><a href="https://techwizard.cloud/2018/06/09/extract-office-365-role-admins/" target="_blank" rel="noopener">Extract office 365 Role Admins</a></li>
+<li><a href="https://techwizard.cloud/2018/04/11/office-365-license-reconciliation/" target="_blank" rel="noopener">Office 365 License Reconciliation</a><a href="https://techwizard.cloud/2018/04/11/office-365-license-reconciliation/" target="_blank" rel="noopener">Office 365 License Reconciliation</a></li>
 </ul>

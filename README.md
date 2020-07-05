@@ -83,5 +83,5 @@ Technet Gallery Migration
 <li><a href="https://techwizard.cloud/2018/09/03/upn-flip-for-office-365-users/" target="_blank" rel="noopener">UPN Flip for Office 365 Users</a></li>
 <li><a href="https://techwizard.cloud/2018/06/19/exchange-online-rooms-report/" target="_blank" rel="noopener">Exchange Online Rooms Report</a></li>
 <li><a href="https://techwizard.cloud/2018/06/09/extract-office-365-role-admins/" target="_blank" rel="noopener">Extract office 365 Role Admins</a></li>
-<li><a href="https://techwizard.cloud/2018/04/11/office-365-license-reconciliation/" target="_blank" rel="noopener">Office 365 License Reconciliation</a><a href="https://techwizard.cloud/2018/04/11/office-365-license-reconciliation/" target="_blank" rel="noopener">Office 365 License Reconciliation</a></li>
+<li><a href="https://techwizard.cloud/2018/04/11/office-365-license-reconciliation/" target="_blank" rel="noopener">Office 365 License Reconciliation</a></li>
 </ul>

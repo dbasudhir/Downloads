@@ -1,6 +1,5 @@
+# https://techwizard.cloud/
 # Downloads https://techwizard.cloud/downloads/
-Technet Gallery Migration
-
 ######################Hyperlinks for Documentation for each script##################
 <ul>
 <li><a href="https://techwizard.cloud/adhealthcheck/">Active Directory Health Check</a></li>
@@ -84,4 +83,5 @@ Technet Gallery Migration
 <li><a href="https://techwizard.cloud/2018/06/19/exchange-online-rooms-report/" target="_blank" rel="noopener">Exchange Online Rooms Report</a></li>
 <li><a href="https://techwizard.cloud/2018/06/09/extract-office-365-role-admins/" target="_blank" rel="noopener">Extract office 365 Role Admins</a></li>
 <li><a href="https://techwizard.cloud/2018/04/11/office-365-license-reconciliation/" target="_blank" rel="noopener">Office 365 License Reconciliation</a></li>
+<li><a href="https://techwizard.cloud/2020/07/09/intune-bulk-device-removal-tool/" target="_blank" rel="noopener">Intune Bulk Device Removal Tool</a></li>
 </ul>

@@ -86,4 +86,12 @@
 <li><a href="https://techwizard.cloud/2018/06/09/extract-office-365-role-admins/" target="_blank" rel="noopener">Extract office 365 Role Admins</a></li>
 <li><a href="https://techwizard.cloud/2018/04/11/office-365-license-reconciliation/" target="_blank" rel="noopener">Office 365 License Reconciliation</a></li>
 <li><a href="https://techwizard.cloud/2020/07/09/intune-bulk-device-removal-tool/" target="_blank" rel="noopener">Intune Bulk Device Removal Tool</a></li>
+<li><a href="https://techwizard.cloud/2015/01/28/clear-activesync-stale-partnerships/" target="_blank" rel="noopener">Clear ActiveSync Stale Partnerships</a></li>
+<li><a href="https://techwizard.cloud/2017/09/28/clear-activesync-stale-partnerships-exchangeonline/" target="_blank" rel="noopener">Clear ActiveSync Stale Partnerships &ndash; ExchangeOnline</a></li>
+<li><a href="https://techwizard.cloud/2017/10/08/lync-account-termination/" target="_blank" rel="noopener">Lync Account Termination</a></li>
+<li><a href="https://techwizard.cloud/2017/05/28/enable-o365-services-input-users-via-text-file/" target="_blank" rel="noopener">Enable o365 Services &ndash; input users via text file</a></li>
+<li><a href="https://techwizard.cloud/2017/04/14/export-pst-for-multiple-users-from-particular-folder/" target="_blank" rel="noopener">Export PST for multiple users from Particular Folder</a></li>
+<li><a href="https://techwizard.cloud/2017/11/18/sharepoint-online-site-collection-owner-report/" target="_blank" rel="noopener">SharePoint Online Site Collection owner Report</a></li>
+<li><a href="https://techwizard.cloud/2017/12/14/office-365-group-sites-ownership-report/" target="_blank" rel="noopener">Office 365 Group Sites ownership Report</a></li>
+<li><a href="https://techwizard.cloud/2018/03/18/office-365-group-sites-ownership-report-v2/" target="_blank" rel="noopener">Office 365 Group Sites ownership Report v2</a></li>
 </ul>

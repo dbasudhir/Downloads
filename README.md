@@ -94,4 +94,5 @@
 <li><a href="https://techwizard.cloud/2017/11/18/sharepoint-online-site-collection-owner-report/" target="_blank" rel="noopener">SharePoint Online Site Collection owner Report</a></li>
 <li><a href="https://techwizard.cloud/2017/12/14/office-365-group-sites-ownership-report/" target="_blank" rel="noopener">Office 365 Group Sites ownership Report</a></li>
 <li><a href="https://techwizard.cloud/2018/03/18/office-365-group-sites-ownership-report-v2/" target="_blank" rel="noopener">Office 365 Group Sites ownership Report v2</a></li>
+<li><a href="https://techwizard.cloud/2020/07/20/powershell-system-admin-module/" target="_blank" rel="noopener">PowerShell System Admin Module</a></li>
 </ul>

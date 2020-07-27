@@ -95,4 +95,10 @@
 <li><a href="https://techwizard.cloud/2017/12/14/office-365-group-sites-ownership-report/" target="_blank" rel="noopener">Office 365 Group Sites ownership Report</a></li>
 <li><a href="https://techwizard.cloud/2018/03/18/office-365-group-sites-ownership-report-v2/" target="_blank" rel="noopener">Office 365 Group Sites ownership Report v2</a></li>
 <li><a href="https://techwizard.cloud/2020/07/20/powershell-system-admin-module/" target="_blank" rel="noopener">PowerShell System Admin Module</a></li>
+<li><a href="https://techwizard.cloud/2017/08/31/activesync-report-exchange-online/" target="_blank" rel="noopener">ActiveSync Report Exchange Online</a></li>
+<li><a href="https://techwizard.cloud/2014/01/30/exchange-2007-database-white-space-report-2/" target="_blank" rel="noopener">Exchange 2007 Database White Space Report</a></li>
+<li><a href="https://techwizard.cloud/export-active-directory-attributes-to-excel-based-on-ou/" target="_blank" rel="noopener">Export Active Directory attributes to Excel based on OU</a></li>
+<li><a href="https://techwizard.cloud/2013/05/29/publish-site-collection-administrator-report/" target="_blank" rel="noopener">Publish Sharepoint 2010 Site Collection Report</a></li>
+<li><a href="https://techwizard.cloud/2014/03/15/outlook-automation-move-emails-powershell/" target="_blank" rel="noopener">Outlook Automation- Move emails &ndash; Powershell</a></li>
+<li><a href="https://techwizard.cloud/2015/04/18/exchange-2013-health-check/" target="_blank" rel="noopener">Exchange 2013 Health Check</a></li>
 </ul>
